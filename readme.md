@@ -1,4 +1,4 @@
-# GoSatck - Challenge: "React Native" concepts
+# GoStack - Challenge: "React Native" concepts
 
 Creating a mobile project with "React Native" to list and add likes in the repositories.
 
